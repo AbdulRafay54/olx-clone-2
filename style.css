@@ -1,0 +1,175 @@
+.header{
+    background-color: #f7f8f8;
+}
+
+.top-bar{
+display: inline-block;
+padding: 10px;
+border-style:bold;
+margin-top: 10px;
+}
+
+.search_item{
+    margin-right:80px;
+    border-radius: 4px;
+    position: absolute;
+}
+.loginbar{
+    display: flex;
+    justify-content: center;
+}
+
+.selectInput{
+    padding: 10px;
+    width: 300px ;
+}
+   
+/* .fa-magnifying-glass{
+    background-color: black;
+ padding: 11px;
+ color: #f7f8f8;
+ border-radius: 4px;
+ 
+ 
+} */
+
+.sellbutton{
+    margin-left: 100px;
+    padding: 13px;
+    border-radius: 30px;
+    background-color: #f7f8f8;
+    border-bottom: 3px solid blue;
+    border-top: 3px solid blue;
+    border-left: 3px solid yellow;
+    border-right: 3px solid #23e5db ;
+}
+
+
+.categories{
+    padding: 30px;
+    padding-left: 80px;
+}
+
+
+
+.card1 {
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    
+}
+
+
+.card {
+    margin-inline-start: 0px;
+    float: none; 
+    margin-bottom: 10px;
+    border: none !important;
+}
+
+.ad-card{
+    border: 10px; 
+     width: 100%;
+    margin: 10px;
+ 
+   
+   
+}
+.card-text{
+    position: relative;
+    left: 250px;
+    
+}
+
+@media only screen and (max-width: 300px){
+    .card1{
+        display: inline-flexbox ;
+        
+    }
+}
+
+.container{
+    background-color: #ebeeef;
+}
+
+.card-img-top{
+    width: 290px;
+}
+
+.flexbox-container{
+    display: flex;
+}
+
+
+.flexbox-item{
+    width: 230px;
+    margin: 12px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px; ;
+    height: 360px;
+    
+}
+
+.flexbox-item-1{
+    
+    width: 290px;
+    
+}
+.flexbox-item-2{
+    
+    width: 290px;
+}
+.flexbox-item-3{
+    
+    width: 290px;
+}
+.flexbox-item-4{
+    
+    width: 290px;
+}
+
+
+.font{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.card-text{
+    padding-right: 210px;
+}
+
+
+.row{
+   
+display: flex;
+justify-content: center;
+    
+}
+
+/* .h5{
+    
+} */
+.icon{
+    display: flex;
+    align-items: center;
+   
+}
+
+.card_area{
+    margin-left: 10px;
+}
+
+/* .button{
+   margin-right: 10px;
+} */
+
+.For-size{
+    margin-left: 45px;
+}
+.For-size1{
+    margin-left: 55px;
+}
+
+.loadbutton{
+    min-height: 30px;
+    margin-left: 10px;
+}
+
+
+
